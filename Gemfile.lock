@@ -188,7 +188,7 @@ GEM
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2016.10)
       tzinfo (>= 1.0.0)
-    uglifier (3.0.4)
+    uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     web-console (3.4.0)
       actionview (>= 5.0)
